@@ -16,7 +16,6 @@ px4flow*.bin
 build*/
 CMakeCache.txt
 CMakeFiles/
-*.cmake
 libperiph.a
 px4flow
 Build_*/
